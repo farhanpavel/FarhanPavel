@@ -11,7 +11,7 @@
 
 - 👨‍💻 My Personal Website [farhanpavel@netlify.app](farhanpavel@netlify.app)
 
-- 💬 Ask me about **Java,C++,HTML,CSS**
+- 💬 Ask me about **Java, C++, HTML, CSS**
 
 - 📫 How to reach me **farhanpavel3@gmail.com**
 
