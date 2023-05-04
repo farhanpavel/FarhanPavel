@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Bootstrap**
 
-- 👨‍💻 My Personal Website [farhanpavel@netlify.app](farhanpavel@netlify.app)
+- 👨‍💻 My Personal Website [farhanpavel.netlify.app](farhanpavel.netlify.app)
 
 - 💬 Ask me about **Java, C++, HTML, CSS**
 
