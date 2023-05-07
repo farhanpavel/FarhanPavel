@@ -3,7 +3,6 @@
 <h3 align="center">A Developer and Competitive Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanpavel&label=Profile%20views&color=0e75b6&style=flat" alt="farhanpavel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
