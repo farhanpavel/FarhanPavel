@@ -16,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://www.linkedin.com/in/farhan-pavel-55b081278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhan pavel" height="30" width="40" /></a>
 <a href="https://fb.com/farhanpavel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farhanpavel" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/farhan_pavel3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="farhan_pavel3" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/farhan_pavel3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="farhan_pavel3" height="30" width="40" /></a>
