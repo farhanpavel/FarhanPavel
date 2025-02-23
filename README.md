@@ -21,5 +21,6 @@ Learn more about me at [Portfolio](https://farhanpavel.netlify.app/)
 |---------------------------------------------------|--------------------------------|---------------------------------------------------------------------------|
 | **Code Samurai BD 2024**                          | [EcoSync](https://github.com/BrickedSoft/cs24-p2-ju_amadeus) | Finalist, placed in the top 40                                            |
 | **Technocrats V.2**                               | [Niramoy](https://github.com/farhanpavel/Niramoy) | Top 10 finalist                                                           |
+| **WebXtreme 25**                                  | [Crimeguard](https://github.com/farhanpavel/crimeguard) | Secured a spot in the top 30 teams                                             |
 | **National Hackathon 2024**                       | [EmpowerHer](https://github.com/farhanpavel/EmpowerHer) | Secured a spot in the top 40 teams                                        |
 | **Binary Brains Battle**                          | Competitive Programming        | 5th place in an Intra-university programming contest                      |
