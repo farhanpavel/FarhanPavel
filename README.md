@@ -23,4 +23,6 @@ Learn more about me at [Portfolio](https://farhanpavel.netlify.app/)
 | **Technocrats V.2**                               | [Niramoy](https://github.com/farhanpavel/Niramoy) | Top 10 finalist                                                           |
 | **WebXtreme 25**                                  | [Crimeguard](https://github.com/farhanpavel/crimeguard) | Secured a spot in the top 30 teams                                             |
 | **National Hackathon 2024**                       | [EmpowerHer](https://github.com/farhanpavel/EmpowerHer) | Secured a spot in the top 40 teams                                        |
+| **INVENTIOUS 4.1 Hackathon**                      | [Bidyarthi](https://github.com/farhanpavel/Bidyarthi) | Secured a spot in the top 10 teams                                        |
+| **INVENTIOUS 4.1 Project Showcasing**             | [Learn2Code](https://github.com/farhanpavel/Learn2Code) | Secured a spot in the top 20 teams                                        |
 | **Binary Brains Battle**                          | Competitive Programming        | 5th place in an Intra-university programming contest                      |
