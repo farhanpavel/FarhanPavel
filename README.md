@@ -25,7 +25,7 @@ Learn more about me at [Portfolio](https://farhanpavel.netlify.app/)
 | **National Hackathon 2024**                       | [EmpowerHer](https://github.com/farhanpavel/EmpowerHer) | Secured a spot in the top 40 teams                                        |
 | **INVENTIOUS 4.1 Hackathon**                      | [Bidyarthi](https://github.com/farhanpavel/Bidyarthi) | Secured a spot in the top 5 teams                                        |
 | **INVENTIOUS 4.1 Project Showcasing**             | [Learn2Code](https://github.com/farhanpavel/Learn2Code) | Secured a spot in the top 20 teams                                        |
-| **DRMC Science Fest 2025**             | [Learn2Code Updated Version](https://github.com/farhanpavel/Learn2Code) | Runners up 🥈                                       |
+| **DRMC Science Fest 2025**             | [Learn2Code Updated Version](https://github.com/farhanpavel/Learn2Code) | **Runners up** 🥈                                       |
 | **INNOVATE X Hackathon**             | [Lumen](https://github.com/farhanpavel/Lumen) | Secured a spot in the top 20 teams                                        |
 | **MIE Robolution**             | [Bidyarthi Mobile App ](https://github.com/farhanpavel/Bidyarthi-APP) | **Champion** 🥇                                       |
 | **Binary Brains Battle**                          | Competitive Programming        | 5th place in an Intra-university programming contest                      |
