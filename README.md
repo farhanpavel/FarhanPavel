@@ -21,9 +21,9 @@ Learn more about me at [Portfolio](https://farhanpavel.netlify.app/)
 |---------------------------------------------------|--------------------------------|---------------------------------------------------------------------------|
 | **MIE Robolution <br> Project Presentation**             | [Bidyarthi Mobile App](https://github.com/farhanpavel/Bidyarthi-APP) | **Champion** 🥇                                       |
 | **INNOVATE X Hackathon**             | [Lumen](https://github.com/farhanpavel/Lumen) | Secured a spot in the top 20 teams                                        |
-| **DRMC Science Fest 2025 <br> Website Showcasing**             | [Learn2Code Updated Version](https://github.com/farhanpavel/Learn2Code) | **Runners up** 🥈                                       |
+| **DRMC Science Fest 2025 <br> Website Showcasing**             | [Learn2Code 2.0](https://github.com/farhanpavel/Learn2Code) | **Runners up** 🥈                                       |
 | **INVENTIOUS 4.1 Project Showcasing**             | [Learn2Code](https://github.com/farhanpavel/Learn2Code) | Secured a spot in the top 20 teams                                        |
-| **INVENTIOUS 4.1 Hackathon**                      | [Bidyarthi](https://github.com/farhanpavel/Bidyarthi) | Secured a spot in the top 5 teams                                        |
+| **INVENTIOUS 4.1 Hackathon**                      | [Bidyarthi](https://github.com/farhanpavel/Bidyarthi) | Secured a spot in the top **5** teams                                        |
 | **National Hackathon 2024**                       | [EmpowerHer](https://github.com/farhanpavel/EmpowerHer) | Secured a spot in the top 40 teams                                        |
 | **WebXtreme 25**                                  | [Crimeguard](https://github.com/farhanpavel/crimeguard) | Secured a spot in the top 30 teams                                             |
 | **Technocrats V.2**                               | [Niramoy](https://github.com/farhanpavel/Niramoy) | Top 10 finalist                                                           |
