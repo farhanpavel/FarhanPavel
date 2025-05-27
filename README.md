@@ -19,12 +19,12 @@ Learn more about me at [Portfolio](https://farhanpavel.netlify.app/)
 
 | Competition Name                                   | Project Name                   | Achievement                                                               |
 |---------------------------------------------------|--------------------------------|---------------------------------------------------------------------------|
-| **MIE Robolution <br> Project Presentation**             | [Bidyarthi Mobile App](https://github.com/farhanpavel/Bidyarthi-APP) 🔒 | **Champion** 🥇                      |
+| **MIE Robolution <br> Project Presentation**             | [Bidyarthi Mobile App](https://drive.google.com/file/d/1ZiPtlhKUHTBjHNuAGZi3kQ3OR0qHCZ8I/view?usp=sharing) 🔒 | **Champion** 🥇                      |
 | **DRMC Science Fest 2025 <br> Website Showcasing**             | [Learn2Code 2.0](https://github.com/farhanpavel/Learn2Code) | **1<sup>st</sup> Runner up** 🥈                 |
 | **INNOVATE X Hackathon**             | [Lumen](https://github.com/farhanpavel/Lumen) | Secured a spot in the top 20 teams                                        |
-| **Biggan Adda Present <br>Innovation and Display**             | [Cognit](https://github.com/farhanpavel/Cognit) | Secured a spot in the top 39 teams                                                  |
+| **Biggan Adda Present <br>Innovation and Display**             | [Cognit](https://drive.google.com/file/d/1d1QCSsUDv86-DoldoXlYXNHkYkxrNr9d/view?usp=sharing)🔒 | Secured a spot in the top 39 teams                                                  |
 | **INVENTIOUS 4.1 Project Showcasing**             | [Learn2Code](https://github.com/farhanpavel/Learn2Code) | Secured a spot in the top 20 teams                                        |
-| **INVENTIOUS 4.1 Hackathon**                      | [Bidyarthi](https://github.com/farhanpavel/Bidyarthi) 🔒 | Secured a spot in the top **5** teams                                        |
+| **INVENTIOUS 4.1 Hackathon**                      | [Bidyarthi](bidyarthi.vercel.app) 🔒 | Secured a spot in the top **5** teams                                        |
 | **National Hackathon 2024**                       | [EmpowerHer](https://github.com/farhanpavel/EmpowerHer) | Secured a spot in the top 40 teams                                        |
 | **WebXtreme 25**                                  | [Crimeguard](https://github.com/farhanpavel/crimeguard) | Secured a spot in the top 30 teams                                             |
 | **Technocrats V.2**                               | [Niramoy](https://github.com/farhanpavel/Niramoy) | Top 10 finalist                                                           |
