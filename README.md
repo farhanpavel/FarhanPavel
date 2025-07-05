@@ -4,7 +4,7 @@ I'm **Md. Farhan Islam Pavel**, a computer enthusiast passionate about exploring
 - **Machine Learning**
 - **IoT (Internet of Things)**
 
-Learn more about me at [Portfolio](https://farhanpavel.netlify.app/)
+Learn more about me at [Portfolio](https://www.farhanpavel.me/)
 
 #### My GitHub stats
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=farhanpavel&show_icons=true&theme=tokyonight&hide_border=true)
